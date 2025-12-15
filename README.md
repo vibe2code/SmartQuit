@@ -21,7 +21,7 @@
 
 ## 🚀 Installation
 
-1. Download the latest release (Coming Soon).
+1. Download the [latest release](https://github.com/vibe2code/SmartQuit/releases/latest) from GitHub.
 2. Drag `SmartQuit.app` to your `Applications` folder.
 3. Launch the app.
 4. Grant the necessary **Accessibility Permissions** when prompted (required to monitor application events).
